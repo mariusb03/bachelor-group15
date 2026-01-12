@@ -1,3 +1,6 @@
-# bachelor-group15
+# Bachelor-group15
+Structural health monitoring for reactive inspection of ferry quays 
 
-[Kanban Issueboard](https://github.com/users/mariusb03/projects/1)
+# [Kanban Issueboard](https://github.com/users/mariusb03/projects/1)
+
+# [All issues](https://github.com/mariusb03/bachelor-group15/issues)
