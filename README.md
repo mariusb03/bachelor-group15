@@ -5,4 +5,4 @@ Structural health monitoring for reactive inspection of ferry quays
 
 # [Wiki](https://github.com/mariusb03/bachelor-group15/wiki)
 
-# [All issues](https://github.com/mariusb03/bachelor-group15/issues)
+# [All issues](https://github.com/mariusb03/bachelor-group15/issues?q=is%3Aissue)
